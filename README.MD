@@ -1,7 +1,7 @@
 # 11'Forest
 
 
-*Only upload scripts that contain paid assets.*
+**Only upload scripts that contain paid assets.**
 (Animation, Background, Character)
 
 ## Overview
@@ -28,7 +28,7 @@
 
 ## Scripts
 ### FPS_Check
-+ Check FPS (it works only Scene1) 
++ Check FPS (it works only Forest(Day)) 
 
 
 ### MyCam
