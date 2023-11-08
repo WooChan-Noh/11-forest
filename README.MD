@@ -1,6 +1,9 @@
 # 11'Forest
 
 
+*Only upload scripts that contain paid assets.*
+(Animation, Background, Character)
+
 ## Overview
 ---
 + Android Build
