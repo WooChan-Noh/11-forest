@@ -5,7 +5,6 @@
 (Animation, Background, Character)
 
 ## Overview
----
 + Android Build
 + Mok-up Application (using Presentation)
 + Characters move automatically (can't user control)
@@ -28,7 +27,6 @@
     + Roadside(Day)
 
 ## Scripts
----
 ### FPS_Check
 + Check FPS (it works only Scene1) 
 
