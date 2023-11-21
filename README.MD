@@ -40,11 +40,11 @@
 
 ### SeaScript, RoadScript, NightScript
 + Control character animation
-+ and control character movement : characters move automatically (use navemesh and _RANDOM_ move point-)
++ and control character movement : characters move automatically (use navemesh and _RANDOM_ move point)
 + Only Forst(Night) is a non-moving scene (No *StartMove()*)
   + RoadScript : Forest(Day), River(Day), Roadside(Day)
   + SeaScript : Sea(Day)
-  + NightScript : Forest(Day)
+  + NightScript : Forest(Night)
 
 
 ### UI
