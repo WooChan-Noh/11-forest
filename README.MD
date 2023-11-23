@@ -7,7 +7,7 @@
 ## Overview
 + Android build
 + Mok-up application (for Presentation)
-##Learn more
+## Learn more
 + Characters move automatically (can't user control)
 + Camera following only one character (can't change)
 + User can control character animation, camera rotation, camera zoom
