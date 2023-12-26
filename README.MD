@@ -28,19 +28,19 @@
     + Roadside(Day)
 
 ## Scripts
-### FPS_Check
+### FPS_Check.cs
 + Check FPS (it works only Forest(Day)) 
 
 
-### MyCam
+### MyCam.cs
 + Use one finger to change rotaion.
   + have a rotation limit : prevent camera jumping
 + Use two finger to change zoom 
-+ Control camera position (follow only one character)
++ This Script control camera position (follow only one character)
 
 
 ### SeaScript, RoadScript, NightScript
-+ Control character animation
++ This scripts control character animation
 + and control character movement : characters move automatically (use navemesh and _RANDOM_ move point)
 + Only Forst(Night) is a non-moving scene (No `StartMove()`)
   + RoadScript used this scenes : Forest(Day), River(Day), Roadside(Day)
