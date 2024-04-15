@@ -1,5 +1,5 @@
 [ReadMe - English](https://github.com/WooChan-Noh/11-forest/blob/main/ReadMeEng.md)    
-[ReadMe - Japanese](https://github.com/WooChan-Noh/11-forest/edit/main/ReadMeJp.md)
+[ReadMe - Japanese](https://github.com/WooChan-Noh/11-forest/blob/main/ReadMeJp.md)
 
 # 11'Forest
 
